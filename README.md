@@ -18,7 +18,7 @@ TODO: Upload the image to the repo, and insert here
 
 The following image depicts the VGG19 model architecture for CNN experiments labeled as "VGG19" or "vgg19" within the experiment files. 
 
-TODO: upload the image, and insert here. 
+![VGG19 Model Architecture](VGG19_model.png?raw=true "VGG19 Model Architecture")
 
 ## File: LSH\_CatVDog\_CustomModel.ipynb
 
