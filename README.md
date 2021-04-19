@@ -12,7 +12,7 @@ There are two different colvolutional neural network model architectures which a
 
 The following image depicts the CNN model architecture diagram for the custom CNN model used in experimentations in the future files listed below. 
 
-TODO: Upload the image to the repo, and insert here
+![Custom Model Architecture](custom_model.png?raw=true "Custom Model Architecture")
 
 ## Model: VGG19
 
